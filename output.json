@@ -1,0 +1,406 @@
+[
+  {
+    "name": "Judith Isabel  Guiop Rojas",
+    "student": "Jose Benjamin Guiop Macedo",
+    "class": "T1: Curso de Manutenção e Suporte em Informática",
+    "phone": "97984230027",
+    "cpf": "07221849218",
+    "amount": 150
+  },
+  {
+    "name": "João Tumbes Aguila",
+    "student": "João Davi Soares Aguila",
+    "class": "T1: Curso de Manutenção e Suporte em Informática",
+    "phone": "97984405662",
+    "cpf": "012345678",
+    "amount": 150
+  },
+  {
+    "name": "SIMONY PEREIRA CAVALCANTE",
+    "student": "KAUA BRUNO  CAVALCANTE DOS SANTOS",
+    "class": "T1: Curso de Manutenção e Suporte em Informática",
+    "phone": "97984270908",
+    "cpf": "08866047295",
+    "amount": 150
+  },
+  {
+    "name": "Ana Maria  Gutierrez Batista",
+    "student": "Moisés Lourenço  Batista",
+    "class": "T1: Curso de Manutenção e Suporte em Informática",
+    "phone": "9798400079",
+    "cpf": "08846933257",
+    "amount": 150
+  },
+  {
+    "name": "Sheila Gomes Aparicio",
+    "student": "Oziel Oscar Aparicio de Almeida",
+    "class": "T1: Curso de Manutenção e Suporte em Informática",
+    "phone": "9794035802",
+    "cpf": "98213431200",
+    "amount": 100
+  },
+  {
+    "name": "Sheila Gomes Aparicio",
+    "student": "Samara Aparicio de Almeida",
+    "class": "T1: Curso de Manutenção e Suporte em Informática",
+    "phone": "97984035802",
+    "cpf": "98213431200",
+    "amount": 100
+  },
+  {
+    "name": "RONIVON  DA SILVA PROCOPIO",
+    "student": "JESSICA ESTEFANE  DOS SANTOS PROCOPIO",
+    "class": "T1: Curso de Manutenção e Suporte em Informática",
+    "phone": "97984333091",
+    "cpf": "85626271268",
+    "amount": 150
+  },
+  {
+    "name": "Francisneia da Silva Castilho",
+    "student": "Raielly  Tananta Jumbato",
+    "class": "T1: Curso de Manutenção e Suporte em Informática",
+    "phone": "97984211450",
+    "cpf": "05939915248",
+    "amount": 150
+  },
+  {
+    "name": "Graciele Guimarães",
+    "student": "Antoni Kauã  Guimarães Galvão",
+    "class": "T1: Curso de Manutenção e Suporte em Informática",
+    "phone": "97998455364",
+    "cpf": "03803512263",
+    "amount": 150
+  },
+  {
+    "name": "Nilze Fernandes Agostinho",
+    "student": "Josué Elias Agostinho Mariano",
+    "class": "T1: Curso de Manutenção e Suporte em Informática",
+    "phone": "979847841247",
+    "cpf": "08305457373",
+    "amount": 150
+  },
+  {
+    "name": "Alcilne Alves de Souza",
+    "student": "Jasmin  de Souza Batista",
+    "class": "T2: Curso de Informática Básica I e II (Matutino - 9:00 às 11:00).                  (Exclusivo para aluno da 2 Fase)",
+    "phone": "97984170955",
+    "cpf": "07825983238",
+    "amount": 150
+  },
+  {
+    "name": "Damares Coelho Malafaia",
+    "student": "Dafini Agata Malafaia Batista",
+    "class": "T2: Curso de Informática Básica I e II (Matutino - 9:00 às 11:00).                  (Exclusivo para aluno da 2 Fase)",
+    "phone": "97984560180",
+    "cpf": "012345678",
+    "amount": 150
+  },
+  {
+    "name": "Edgar  da Silva Muayunga",
+    "student": "Nicolas Thayler  Guimarães Muayunga",
+    "class": "T2: Curso de Informática Básica I e II (Matutino - 9:00 às 11:00).                  (Exclusivo para aluno da 2 Fase)",
+    "phone": "97984127077",
+    "cpf": "00000000",
+    "amount": 150
+  },
+  {
+    "name": "HARLENI  ACHONG VELA",
+    "student": "DENILSON GABRIEL  VELA BARQUES",
+    "class": "T2: Curso de Informática Básica I e II (Matutino - 9:00 às 11:00).                  (Exclusivo para aluno da 2 Fase)",
+    "phone": "97984537694",
+    "cpf": "08223545248",
+    "amount": 150
+  },
+  {
+    "name": "Itayuyno Gomes Guida",
+    "student": "Murillo  Cardoso Guida",
+    "class": "T2: Curso de Informática Básica I e II (Matutino - 9:00 às 11:00).                  (Exclusivo para aluno da 2 Fase)",
+    "phone": "97984577066",
+    "cpf": "0001202416",
+    "amount": 150
+  },
+  {
+    "name": "Nick  Guimarães Vasques",
+    "student": "Vinícius  Oliveira Vasques",
+    "class": "T2: Curso de Informática Básica I e II (Matutino - 9:00 às 11:00).                  (Exclusivo para aluno da 2 Fase)",
+    "phone": "97974008835",
+    "cpf": "07083779201",
+    "amount": 150
+  },
+  {
+    "name": "Simone Cruz Gonçalves",
+    "student": "Samuel Gonçalves de Souza",
+    "class": "T2: Curso de Informática Básica I e II (Matutino - 9:00 às 11:00).                  (Exclusivo para aluno da 2 Fase)",
+    "phone": "97984242741",
+    "cpf": "07150266231",
+    "amount": 150
+  },
+  {
+    "name": "NULL NULL",
+    "student": "Manuel  Guita de Araujo",
+    "class": "T3: Informática Intermediária (Vespertino - 13:00 às 15:00).                          (Exclusivo para aluno da 2 Fase)",
+    "phone": "9798412345",
+    "cpf": "000000",
+    "amount": 150
+  },
+  {
+    "name": "Vera Holanda",
+    "student": "Gabriel   Maia",
+    "class": "T3: Informática Intermediária (Vespertino - 13:00 às 15:00).                          (Exclusivo para aluno da 2 Fase)",
+    "phone": "9791670086",
+    "cpf": "03518867296",
+    "amount": 150
+  },
+  {
+    "name": "Vera Holanda",
+    "student": "Arthur  Maia",
+    "class": "T3: Informática Intermediária (Vespertino - 13:00 às 15:00).                          (Exclusivo para aluno da 2 Fase)",
+    "phone": "97991670086",
+    "cpf": "03518859277",
+    "amount": 150
+  },
+  {
+    "name": "Pátricia",
+    "student": "Joenderson da Silva Tapudima",
+    "class": "T3: Informática Intermediária (Vespertino - 13:00 às 15:00).                          (Exclusivo para aluno da 2 Fase)",
+    "phone": "92984168912",
+    "cpf": "05855230295",
+    "amount": 150
+  },
+  {
+    "name": "MARCELO FABIANO DE OLIVEIRA FARIAS",
+    "student": "THIERRY FAHIR NEVES FARIAS",
+    "class": "T3: Informática Intermediária (Vespertino - 13:00 às 15:00).                          (Exclusivo para aluno da 2 Fase)",
+    "phone": "9788086120",
+    "cpf": "03381237250",
+    "amount": 150
+  },
+  {
+    "name": "NAIR  SOUZA ACRIS",
+    "student": "SARAH  GABRIELLY ACRIS",
+    "class": "T3: Informática Intermediária (Vespertino - 13:00 às 15:00).                          (Exclusivo para aluno da 2 Fase)",
+    "phone": "9791624930",
+    "cpf": "05006129271",
+    "amount": 150
+  },
+  {
+    "name": "MARIA NEUCILENE  PALMEIRA DE SOUZA",
+    "student": "FELIPE RICHARD  DE SOUZA OLIVEIRA",
+    "class": "T3: Informática Intermediária (Vespertino - 13:00 às 15:00).                          (Exclusivo para aluno da 2 Fase)",
+    "phone": "97991572909",
+    "cpf": "03982960223",
+    "amount": 150
+  },
+  {
+    "name": "Max Graça",
+    "student": "Guilherme  Graça",
+    "class": "T3: Informática Intermediária (Vespertino - 13:00 às 15:00).                          (Exclusivo para aluno da 2 Fase)",
+    "phone": "9291635648",
+    "cpf": "08021334282"
+  },
+  {
+    "name": "Max Graça",
+    "student": "Liam Graça",
+    "class": "T3: Informática Intermediária (Vespertino - 13:00 às 15:00).                          (Exclusivo para aluno da 2 Fase)",
+    "phone": "9291635648",
+    "cpf": "01629566225",
+    "amount": 150
+  },
+  {
+    "name": "Monica Jean da Silva",
+    "student": "Murilo Sebastian da Silva Nascimento",
+    "class": "T3: Informática Intermediária (Vespertino - 13:00 às 15:00).                          (Exclusivo para aluno da 2 Fase)",
+    "phone": "9791490792",
+    "cpf": "05048043243",
+    "amount": 150
+  },
+  {
+    "name": "Alissandro Batista dos Santos",
+    "student": "Clara Francisca  Barboza dos Santos",
+    "class": "T3: Informática Intermediária (Vespertino - 13:00 às 15:00).                          (Exclusivo para aluno da 2 Fase)",
+    "phone": "9791743584",
+    "cpf": "06839994279",
+    "amount": 150
+  },
+  {
+    "name": "Maria Helena Ipuchima chota",
+    "student": "Alricelio  Rengifo Canhellas filho",
+    "class": "T3: Informática Intermediária (Vespertino - 13:00 às 15:00).                          (Exclusivo para aluno da 2 Fase)",
+    "phone": "97984488286",
+    "cpf": "03369097214",
+    "amount": 150
+  },
+  {
+    "name": "Osias  Aicate Aiambo",
+    "student": "Vinicius  Peres Aiambo",
+    "class": "T4: Curso de Programação (Vespertino - 15:00 às 17:00).                                   (Exclusivo para aluno da 2 Fase/possuem Informática intermediária)",
+    "phone": "9784257874",
+    "cpf": "123456789",
+    "amount": 150
+  },
+  {
+    "name": "Osias  Aicate Aiambo",
+    "student": "Saulo  Perez Aiambo",
+    "class": "T4: Curso de Programação (Vespertino - 15:00 às 17:00).                                   (Exclusivo para aluno da 2 Fase/possuem Informática intermediária)",
+    "phone": "9784257874",
+    "cpf": "0123456789",
+    "amount": 150
+  },
+  {
+    "name": "Nazitha Dayara Rossel Cabral",
+    "student": "Luis Gustavo Cabral Furtado",
+    "class": "T4: Curso de Programação (Vespertino - 15:00 às 17:00).                                   (Exclusivo para aluno da 2 Fase/possuem Informática intermediária)",
+    "phone": "9294008275",
+    "cpf": "04336227250"
+  },
+  {
+    "name": "Maria Lucia  Silva Pintes",
+    "student": "Suany  Da Silva Gama",
+    "class": "T4: Curso de Programação (Vespertino - 15:00 às 17:00).                                   (Exclusivo para aluno da 2 Fase/possuem Informática intermediária)",
+    "phone": "9798414677",
+    "cpf": "09619652231",
+    "amount": 150
+  },
+  {
+    "name": "Glebson barroso salvador Salvador",
+    "student": "Diogo almeida salvador Salvador",
+    "class": "T4: Curso de Programação (Vespertino - 15:00 às 17:00).                                   (Exclusivo para aluno da 2 Fase/possuem Informática intermediária)",
+    "phone": "9784087531",
+    "cpf": "02155088230",
+    "amount": 150
+  },
+  {
+    "name": "Graciele Guimarães",
+    "student": "Kaick José  Guimarães Galvão",
+    "class": "T4: Curso de Programação (Vespertino - 15:00 às 17:00).                                   (Exclusivo para aluno da 2 Fase/possuem Informática intermediária)",
+    "phone": "9798455364",
+    "cpf": "10057590222",
+    "amount": 150
+  },
+  {
+    "name": "Tarsila  Ferreira Santos",
+    "student": "Francisco Almerio  Santos Bonfim",
+    "class": "T4: Curso de Programação (Vespertino - 15:00 às 17:00).                                   (Exclusivo para aluno da 2 Fase/possuem Informática intermediária)",
+    "phone": "9784312700",
+    "cpf": "03495253238",
+    "amount": 150
+  },
+  {
+    "name": "NULL",
+    "student": "Darwin Ayala Jesus",
+    "class": "T5: Informática Básica Adulto (Seg. a Sex. 19:00 às 21:00)",
+    "phone": "9784400011",
+    "cpf": "602108029",
+    "amount": 150
+  },
+  {
+    "name": "Elsa  mama",
+    "student": "Willer Jhair Dueñas Salazar",
+    "class": "T5: Informática Básica Adulto (Seg. a Sex. 19:00 às 21:00)",
+    "phone": "9784198212",
+    "cpf": "62397731",
+    "amount": 150
+  },
+  {
+    "name": "Noel Fernandes Bastos",
+    "student": "Noel Fernandes Bastos",
+    "class": "T5: Informática Básica Adulto (Seg. a Sex. 19:00 às 21:00)",
+    "phone": "9784167270",
+    "cpf": "75957175234",
+    "amount": 150
+  },
+  {
+    "name": "Alejandro  Burga Perez",
+    "student": "Alejandro  Burga Perez",
+    "class": "T5: Informática Básica Adulto (Seg. a Sex. 19:00 às 21:00)",
+    "phone": "9784176554",
+    "cpf": "70872110214",
+    "amount": 150
+  },
+  {
+    "name": "Jose Manoel  Guebara Fernandez",
+    "student": "Jose Manoel  Guebara Fernandez",
+    "class": "T5: Informática Básica Adulto (Seg. a Sex. 19:00 às 21:00)",
+    "phone": "9784250354",
+    "cpf": "70015717259",
+    "amount": 150
+  },
+  {
+    "name": "RAIVAM FREITAS",
+    "student": "Franckson Nunes",
+    "class": "T5: Informática Básica Adulto (Seg. a Sex. 19:00 às 21:00)",
+    "phone": "9798410707",
+    "cpf": "10837269270",
+    "amount": 150
+  },
+  {
+    "name": "Eliano  do Carmo",
+    "student": "Junho Antonio do Carmo",
+    "class": "T5: Informática Básica Adulto (Seg. a Sex. 19:00 às 21:00)",
+    "phone": "9784211531",
+    "cpf": "07113220231",
+    "amount": 150
+  },
+  {
+    "name": "Ernan Limão Juanico",
+    "student": "Ernan Limão Juanico",
+    "class": "T5: Informática Básica Adulto (Seg. a Sex. 19:00 às 21:00)",
+    "phone": "9784323277",
+    "cpf": "04925725262",
+    "amount": 150
+  },
+  {
+    "name": "Elias Gabriel Rodrigues Ribeiro",
+    "student": "Francimar Almeida Ribeiro",
+    "class": "T6: Informática Básica (Sábado - 8:00 às 11:00). A partir de 16 anos de idade",
+    "phone": "9784165084",
+    "amount": 150
+  },
+  {
+    "name": "Taty Dayane Muraiare Peres",
+    "student": "Lucimar  Muraiare Peres",
+    "class": "T6: Informática Básica (Sábado - 8:00 às 11:00). A partir de 16 anos de idade",
+    "phone": "9784405662",
+    "cpf": "10810957256",
+    "amount": 150
+  },
+  {
+    "name": "Gabrielly  Sales Lopes",
+    "student": "JUCYMARA  PARENTE SALES",
+    "class": "T6: Informática Básica (Sábado - 8:00 às 11:00). A partir de 16 anos de idade",
+    "phone": "9784300306",
+    "cpf": "06036018207",
+    "amount": 150
+  },
+  {
+    "name": "Jonas Fabricio Yahuarcani Oliveira",
+    "student": "Sandra  Yahuarcani Guerra",
+    "class": "T6: Informática Básica (Sábado - 8:00 às 11:00). A partir de 16 anos de idade",
+    "phone": "9774006260",
+    "cpf": "07786807209",
+    "amount": 150
+  },
+  {
+    "name": "João Gabriel  Moraes Dias",
+    "student": "Ariana  Lucas Moraes",
+    "class": "T6: Informática Básica (Sábado - 8:00 às 11:00). A partir de 16 anos de idade",
+    "phone": "9791550353",
+    "amount": 150
+  },
+  {
+    "name": "Nara Katty Freitas Sanchez",
+    "student": "Karen Eduarda Sanchez Freitas",
+    "class": "T7: Informática Básica (Sábado - 14:00 às 17:00). A partir de 16 anos de idade",
+    "phone": "9791893031",
+    "cpf": "0123456789",
+    "amount": 150
+  },
+  {
+    "name": "Sebastião Carlos Bruno Neto",
+    "student": "Heloisa Jocelina Costa Bruno",
+    "class": "T7: Informática Básica (Sábado - 14:00 às 17:00). A partir de 16 anos de idade",
+    "phone": "9791481110",
+    "cpf": "08276938264",
+    "amount": 150
+  }
+]
